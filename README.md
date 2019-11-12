@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [SpringBoot整合RabbitMQ](https://wzxing918.top/articles/2019/11/12/1573520642753.html)
+* [Java性能调优工具箱之Java监控工具](https://wzxing918.top/articles/2019/11/12/1573520573146.html)
 * [Java性能调优工具箱之操作系统的工具和分析(二)](https://wzxing918.top/articles/2019/11/11/1573455012413.html)
 * [Java性能调优工具箱之操作系统的工具和分析(一)](https://wzxing918.top/articles/2019/11/10/1573353592295.html)
 * [ JAVA锁](https://wzxing918.top/articles/2019/11/09/1573253866458.html)
